@@ -1,6 +1,7 @@
 from matplotlib import pyplot
 from time import time
 from statistics import mean
+# TODO#3: simplify q_tools
 
 
 class Plot:
